@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+.venv/
+
+# Raw data files (keep private)
+data/
+*.csv
+*.gz
+
+# OS-specific files
+.DS_Store
